@@ -44,5 +44,21 @@
 
 ## Galeria
 ### ![image](https://github.com/user-attachments/assets/93f0f029-9ce4-41e2-9fec-722a4939ffa9)
+### ![image](https://github.com/user-attachments/assets/3cdd031c-9639-4a8e-a87a-28aba4319538)
+
+## Contacto
+### ![image](https://github.com/user-attachments/assets/f24b6b3c-4950-4945-a36b-0e9b3565760e)
+### ![image](https://github.com/user-attachments/assets/35f08607-cca8-4d52-b2bd-f9adf351daca)
+
+## Estilos
+### ![image](https://github.com/user-attachments/assets/754635ec-5e25-4d1b-ae3c-0547066a0de0)
+### ![image](https://github.com/user-attachments/assets/b7f71fdd-dfe7-4a98-89d3-151a24e9e286)
+### ![image](https://github.com/user-attachments/assets/723b0f59-ecff-4db2-aa1e-76d30ec21794)
+### ![image](https://github.com/user-attachments/assets/e9a6599a-75e4-4bc3-875c-65f795be4e36)
+### ![image](https://github.com/user-attachments/assets/d4ab7b21-10ca-4852-91a5-0b075791b195)
+### ![image](https://github.com/user-attachments/assets/479e3589-ec73-4a59-945a-5c2051139948)
+### ![image](https://github.com/user-attachments/assets/7b614567-6826-469e-83e1-b159ad3d6410)
+### ![image](https://github.com/user-attachments/assets/1d3d0578-dfbe-4705-9c87-429b5c81caa5)
+### ![image](https://github.com/user-attachments/assets/5dd0a8aa-f3f2-4caf-b69a-caf4f515069b)
 
 
