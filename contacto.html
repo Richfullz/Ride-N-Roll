@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Contacto</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <div class="navbar-left">
+          <img
+            src="./img/logo-Ride ‘N Roll.jpeg"
+            alt="Ride ‘N Roll"
+            class="logo"
+          />
+          <h1>Ride ‘N Roll</h1>
+        </div>
+        <div class="navbar-right">
+          <a href="index.html">Inicio</a>
+          <a href="galeria.html">Galería</a>
+          <a href="contacto.html">Contacto</a>
+        </div>
+      </nav>
+    </header>
+    <section class="Formulario">
+      <div class="eventos">
+        <h2>Próximos Eventos</h2>
+        <ul>
+          <li><strong>Circuito Tormenta:</strong> Sábado 10 de junio, 09:00</li>
+          <li><strong>Circuito Fénix:</strong> Viernes 20 de junio, 16:00</li>
+          <li><strong>Circuito Selva:</strong> Domingo 25 de junio, 11:00</li>
+          <li><strong>Circuito Rápido:</strong> Sábado 1 de julio, 10:30</li>
+        </ul>
+      </div>
+      <div class="container-formulario">
+        <form action="">
+          <h1>Reserva aqui tu cita</h1>
+          <label for="nombre">Nombre</label>
+          <input type="text" name="nombre" required placeholder="Nombre" />
+          <label for="email">Email</label>
+          <input type="text" name="email" required placeholder="Email" />
+          <label for="telefono">Teléfono</label>
+          <input type="text" name="telefono" required placeholder="Mensaje" />
+          <label for="mensaje">Mensaje</label>
+          <textarea
+            id="mensaje"
+            name="mensaje"
+            required
+            placeholder="Escribe aqui"
+          ></textarea>
+          <label for="fecha">Fecha de la cita</label>
+          <input type="date" id="fecha" name="fecha" required />
+          <button type="submit" class="enviar">Enviar</button>
+        </form>
+      </div>
+    </section>
+    <footer class="footer">
+      <div class="footer-content">
+        <p>&copy; 2025 Ride ‘N Roll. Todos los derechos reservados.</p>
+        <div class="footer-contacto">
+          <span
+            >📧Email: <a href="info@ridenroll.com:">info@ridenroll.com</a>
+          </span>
+          |
+          <span>📞Tel: <a href="tel:+123-456-789">123-456-789</a></span>
+        </div>
+        <div class="footer-redes">
+          <i class="fab fa-instagram"></i> <a href="#"> Instagram</a> |
+          <i class="fab fa-facebook-f"></i> <a href="#"> Facebook</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
