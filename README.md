@@ -61,4 +61,10 @@
 ### ![image](https://github.com/user-attachments/assets/1d3d0578-dfbe-4705-9c87-429b5c81caa5)
 ### ![image](https://github.com/user-attachments/assets/5dd0a8aa-f3f2-4caf-b69a-caf4f515069b)
 
+## Cosas para mejorar
+### Hacer una base de datos para guardar proximos eventos y actualizarlos continuamente en la seccion de eventos
+### Hacer una seccion en formulario para confirmar cita para ir a los eventos o reservar un circuito para ir de forma libre
+### Añadir una seccion mas en galeria de fotos y videos
+### Mostrar un Eventos de los circuitos
+### En inicio mostrar una seccion de fotos y comentarios que se publican en las redes sociales 
 
